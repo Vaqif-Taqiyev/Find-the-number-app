@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Find the number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="casino_game">Casino Game</string>
+    <string name="start">Start</string>
+    <string name="kalan_hakk_5">Kalan Hakk: 5</string>
+    <string name="enter_a_number">Enter a number...</string>
+    <string name="send">Send</string>
+    <string name="you_lose">You Lose...</string>
+    <string name="restart">Restart</string>
+    <string name="art_r">Artır</string>
+</resources>
